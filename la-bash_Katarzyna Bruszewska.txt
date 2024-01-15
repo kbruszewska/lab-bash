@@ -1,0 +1,238 @@
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~
+$ ls
+'3D Objects'/             MicrosoftEdgeBackups/                                                                          One
+ Anwendungsdaten@         Music/                                                                                         Pic
+ AppData/                 NTUSER.DAT                                                                                     Rec
+'Application Data'/       NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.0.regtrans-ms                             Roa
+ Contacts/                NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.1.regtrans-ms                            'Sav
+ Cookies@                 NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.2.regtrans-ms                             Sea
+ Desktop/                 NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.blf                                       Sen
+ Documents/               NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TM.blf                                        Sta
+ Downloads/               NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TMContainer00000000000000000001.regtrans-ms   Tra
+ Druckumgebung@           NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TMContainer00000000000000000002.regtrans-ms   Vid
+'Eigene Dateien'@         NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.0.regtrans-ms                             Vor
+ Favorites/               NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.1.regtrans-ms                             ana
+ IH-Labs/                 NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.blf                                       ntu
+ Intel/                   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TM.blf                                        ntu
+ IntelGraphicsProfiles/   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TMContainer00000000000000000001.regtrans-ms   ntu
+ Links/                   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TMContainer00000000000000000002.regtrans-ms
+'Lokale Einstellungen'@   Netzwerkumgebung@
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~
+$ cd Desktop
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/Desktop
+$ ls
+'01 Praca Badania - Verknüpfung.lnk'*   HOCHC/                  'Kasia Handy komplett'/   Planungshilfe_LA/  'STOP Jannes Fo
+ Git-2.43.0-64-bit.exe*                'Interview TempSchoe'/   'Kurse VHS'/              Portfolio/          adwcleaner_7.4
+'GitHub Desktop.lnk'*                   IronHack/                PDFCombiner.exe*         Projekte_Arbeit/    desktop.ini
+'Glary Utilities 5.lnk'*               'Kasia - Shortcut.lnk'*   Passwort_GitHub.txt     'SLUB HOCHZEIT'/     token_gitHub.P
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/Desktop
+$ cd ..
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~
+$ ls
+'3D Objects'/             MicrosoftEdgeBackups/                                                                          One
+ Anwendungsdaten@         Music/                                                                                         Pic
+ AppData/                 NTUSER.DAT                                                                                     Rec
+'Application Data'/       NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.0.regtrans-ms                             Roa
+ Contacts/                NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.1.regtrans-ms                            'Sav
+ Cookies@                 NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.2.regtrans-ms                             Sea
+ Desktop/                 NTUSER.DAT{3867a369-79fb-11eb-9c8a-8555f9aa2735}.TxR.blf                                       Sen
+ Documents/               NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TM.blf                                        Sta
+ Downloads/               NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TMContainer00000000000000000001.regtrans-ms   Tra
+ Druckumgebung@           NTUSER.DAT{3867a36a-79fb-11eb-9c8a-8555f9aa2735}.TMContainer00000000000000000002.regtrans-ms   Vid
+'Eigene Dateien'@         NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.0.regtrans-ms                             Vor
+ Favorites/               NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.1.regtrans-ms                             ana
+ IH-Labs/                 NTUSER.DAT{8ef21c29-e64e-11eb-9c9a-b46d83d80fdf}.TxR.blf                                       ntu
+ Intel/                   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TM.blf                                        ntu
+ IntelGraphicsProfiles/   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TMContainer00000000000000000001.regtrans-ms   ntu
+ Links/                   NTUSER.DAT{8ef21c2a-e64e-11eb-9c9a-b46d83d80fdf}.TMContainer00000000000000000002.regtrans-ms
+'Lokale Einstellungen'@   Netzwerkumgebung@
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~
+$ cd IH-Labs
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs
+$ ls
+IronHackDanH/  IronKatarzyna/  lab-bash/  lab-git/
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs
+$ cd lab-bash
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls
+exercices/  inputs/  lorem/  lorem-copy/  outputs/  readme.md
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ echo "Hello World"
+Hello World
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ mkdir new_dir
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls
+exercices/  inputs/  lorem/  lorem-copy/  new_dir/  outputs/  readme.md
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ rmdir new_dir
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls
+exercices/  inputs/  lorem/  lorem-copy/  outputs/  readme.md
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cp lorem
+lorem/      lorem-copy/
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cp lorem
+lorem/      lorem-copy/
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cp lorem/sed.txt lorem-copy/sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem-copy/
+dummy_file.txt  sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem
+at.txt  at.txte  lorem.txt  sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cp lorem/at.txt lorem-copy/at.txt; co lorem/lorem.txt lorem-copy/lorem.txt
+bash: co: command not found
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cp lorem/at.txt lorem-copy/at.txt; cp lorem/lorem.txt lorem-copy/lorem.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem-copy
+at.txt  dummy_file.txt  lorem.txt  sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ type lorem/sed.txt
+bash: type: lorem/sed.txt: not found
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cat lorem/sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil m
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cat lorem/at.txt; cat lorem/lorem.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ head -n 3 lorem-copy/sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ tail -n 3 lorem-copy/sed.txt
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ echo "Homo homini lupus." >> lorem-copy/sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ tail -n 3 lorem-copy/sed.txt
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+Homo homini lupus.
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ sed 's/et/ET/' lorem/at.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cat lorem/at.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ whoami
+etak6
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ pwd
+/c/Users/etak6/IH-Labs/lab-bash
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem/*.txt
+lorem/at.txt  lorem/lorem.txt  lorem/sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ wc -l lorem/sed.txt
+9 lorem/sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ cat lorem/sed.txt | wc -l
+9
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem*
+lorem:
+at.txt  at.txte  lorem.txt  sed.txt
+
+lorem-copy:
+at.txt  dummy_file.txt  lorem.txt  sed.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ ls lorem*.*
+ls: cannot access 'lorem*.*': No such file or directory
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ find . -type f -name 'lorem*'
+./lorem/lorem.txt
+./lorem-copy/lorem.txt
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$ find . -type f -name 'lorem*' | wc -l
+2
+
+etak6@LAPTOP-9IN1B7GE MINGW64 ~/IH-Labs/lab-bash (master)
+$
